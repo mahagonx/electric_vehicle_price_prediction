@@ -2,11 +2,13 @@
 
 Scrapes a list of electric cars from www.autoscout24.ch and models price by age and milage.
 
+_Note: as of August 2019 Autoscout24.ch blocks scraping attempts._
+
 Example:
 
 
-![Scatter plot](plot/scatter_Inverkehrsetzung_Preis.png?raw=true "Scatter plot")
-![Regression plot](plot/regplot_Inverkehrsetzung_Preis.png?raw=true "Regression plot")
+![Scatter plot](plot/scatter_days_Preis.png?raw=true "Scatter plot")
+![Regression plot](plot/regplot_days_Preis.png?raw=true "Regression plot")
 
 ```
                   Mixed Linear Model Regression Results
